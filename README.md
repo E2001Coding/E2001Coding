@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @E2001Coding
+- 👀 I’m interested in learning, how to code ;)
+- 🌱 I’m currently learning HTML,CSS and now i'll switch up for C++, but people mean, i should learn JS or something "simple".
+- 💞️ I’m looking to collaborate on ... "nothing ;)" im just here, to learn. 
+- 📫 How to reach me ... ? Just write me on my e-mail : E2001Coding@gmail.com  (This e-mail is only for coding)
